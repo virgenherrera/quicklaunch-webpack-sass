@@ -10,9 +10,9 @@ Pre-Installation
 ------------
 you must install git console and nodeJs in order to be able to with this tools
 
-## You can get git console [Here!](https://git-scm.com/downloads "Download GIT!")
+### You can get git console [Here!](https://git-scm.com/downloads "Download GIT!")
 
-## You can get the nodeJs installer [Here!](https://nodejs.org/en/ "Download nodeJs")
+### You can get the nodeJs installer [Here!](https://nodejs.org/en/ "Download nodeJs")
 
 
 Installation
@@ -21,7 +21,7 @@ Installation
 ### Clone this project
 	git clone https://github.com/virgenherrera/quicklaunch-webpack-sass.git
 
-### If you wish you can make this project yours by deleting the .git folder inside it!
+### If you wish you can make this project yours by deleting the .git folder inside it! (then you must to initialize the repo)
 	cd quicklaunch-webpack-sass && rm -Rfv .git/
 
 ### Install npm project dependencies
@@ -33,4 +33,4 @@ Installation
 ### Open a new terminal and start webpack dev server
 	npm start
 
-### Whatch your progress in your browser in [127.0.0.1:8000/build](127.0.0.1:8000/build "Local dev-server")
+#### Whatch your progress in your browser in "[127.0.0.1:8000/build](127.0.0.1:8000/build "Local dev-server")"
