@@ -8,7 +8,7 @@ This is a simple, skeleton application using webpack, js, es6, and sass.
 
 Pre-Installation
 ------------
-you must install git console and nodeJs in order to be able to with this tools
+you must install git console and nodeJs in order to be able to work with this tools
 
 ### You can get git console [Here!](https://git-scm.com/downloads "Download GIT!")
 
